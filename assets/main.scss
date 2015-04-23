@@ -91,6 +91,14 @@ hr {
 	background-image: -o-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
 }
 
+h2, ul {
+	margin:0;
+}
+
+h2 {
+	margin-top:1em;
+}
+
 /*** footer ***/
 footer {
 	position: fixed;
